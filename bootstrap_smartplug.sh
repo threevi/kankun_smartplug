@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-_ROOT_PASSWD="#3viSmartpluG3vi#"
-_NETWORK_SSID="ntx101"
-_NETWORK_PASSWD="turley123dyer"
+_ROOT_PASSWD="<ROOT_PASSWD>"
+_NETWORK_SSID="<NETWORK_SSID>"
+_NETWORK_PASSWD="<NETWORK_PASSWD>"
 
 #==============================================================================
 #==============================================================================
